@@ -9,3 +9,13 @@ O **ReactLadies** é uma iniciativa que pretende encorajar garotas a dar start e
 Porque nós amamos React, e essa é também uma singela homenagem ao @Pyladies, uma comunidade incrível de mulheres amantes de programação em Python.
 
 ## Como funciona
+
+Nós acreditamos profundamente na conexão entre mulheres que se apoiam e se empoderam juntas, e pensando nisso que gostaríamos de cocriar algo que pensamos que pode começar como uma jornada de encontros periódicos onde podemos estudar sobre tecnologia.
+
+## Compromisso
+
+## Links importantes
+
+* Tabela colaborativa de polonizadoras
+* Trilha de estudos sobre React
+* Nossa página na web
