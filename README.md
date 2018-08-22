@@ -20,3 +20,5 @@ Nós acreditamos profundamente na conexão entre mulheres que se apoiam e se emp
 * Trilha de estudos sobre React
 * Nossa página na web
 * Depoimentos
+* Termo de Conduta
+* Guia de Contribuição
