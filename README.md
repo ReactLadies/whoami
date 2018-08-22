@@ -19,3 +19,4 @@ Nós acreditamos profundamente na conexão entre mulheres que se apoiam e se emp
 * Tabela colaborativa de polinizadoras
 * Trilha de estudos sobre React
 * Nossa página na web
+* Depoimentos
