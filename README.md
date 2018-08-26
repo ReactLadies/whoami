@@ -22,8 +22,6 @@ Juntas podemos capacitar mais mulheres e facilitar sua entrada no mercado de TI,
 * Multiplicadoras: o projeto inicial será aplicado para 10 meninas, porém será realizado um pacto onde elas tem o compromisso de repassar todo conteúdo para um novo grupo de 10 meninas, e assim formamos uma corrente maravilhosa que visa formá-las em multiplicadoras de conteúdo.
 * Evolução: o objetivo aqui é saber como elas iniciaram e aonde querem chegar, planejamos desde o início que teremos 10 encontros e o que se espera de cada encontro, acompanhamos a jornada de cada participante, apoiando e dando todo o suporte para que consigam atingir seu objetivo final 
 
-## Compromisso
-
 ## Links importantes
 * Tabela colaborativa de polinizadoras
 * Trilha de estudos sobre React
