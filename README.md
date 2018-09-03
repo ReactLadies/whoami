@@ -29,3 +29,4 @@ Juntas podemos capacitar mais mulheres e facilitar sua entrada no mercado de TI,
 * Depoimentos
 * Termo de Conduta
 * Guia de Contribuição
+* [Matriz de Pareamento](https://github.com/ReactLadies/whoami/wiki/Pair-Programming-Matrix)
